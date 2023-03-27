@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Tip Calculator</string>
     <string name="tip_calculator_heading">Calculate Tip</string>
-    <string name="bill_amount">Bill Amount</string>
+    <string name="generate_random_bill">Generate Random Bill</string>
+    <string name="cost_of_service">Cost Of Service</string>
+    <string name="bill_amount">Bill Amount: %s</string>
     <string name="tip_amount">Tip amount: %s</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="eighteen">18%</string>
+    <string name="twenty">20%</string>
+    <string name="total">Total: %s</string>
 </resources>
